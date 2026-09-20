@@ -2,7 +2,7 @@
 
 Tools for testing and validating LLM applications.
 
-Tapelock records model interactions so they can be replayed, tested, and compared against live responses.
+Tapelock records LLM interactions so they can be replayed, tested, and compared against live behaviour.
 
 ## Projects
 
